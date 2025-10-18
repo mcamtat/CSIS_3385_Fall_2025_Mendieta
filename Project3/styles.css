@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #624a4a;
+    color: #f395b8;
+    padding: 20px;
+    z-index: 0;
+}
+
+body::before{
+    background-image: url('https://openclipart.org/image/800px/299733');
+    opacity: 0.25;
+    background-repeat: repeat;
+    background-size: 20vw 20vw;
+    background-blend-mode: luminosity;
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+.form-container {
+    background-color: #f4dede;
+    padding: 20px;
+    border-radius: 8px;
+    width: 90%;
+    max-width: 400px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(205, 70, 70, 0.3);
+}
+label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #444;
+    background-color: #cbabab;
+    color: #fff;
+    box-sizing: border-box;
+}
+textarea {
+    resize: vertical;
+    min-height: 60px;
+}
+button {
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    background-color: #f395b8;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #d36e93;
+}
+
+fieldset {
+    border: 1px solid #f395b8;
+    margin-top: 20px;
+}
+
+legend {
+    text-align: center;
+    font-weight: bold;
+    color: #f395b8;
+}
+
+h2 {
+    text-align: center;
+}
