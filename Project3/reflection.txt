@@ -5,4 +5,8 @@ If this was a live production form, I feel like I would want to look more into e
 I, Camilla Mendieta, affirm that all work submitted in this case study is my own. I have not used AI tools, AI-generated text, or AI-based writing assistants (such as ChatGPT, Gemini, Grammarly AI, etc.) in the creation of this assignment. I understand that using AI tools for this project violates the spirit of ethical learning and may result in academic consequences.
 Printed: Camilla Mendieta
 Signed: CAMILLLLLLLAAAAAA MENDIETAAAAAA (my signature) 
+<<<<<<< HEAD
 Date: 10.17.2025
+=======
+Date: 10.17.2025
+>>>>>>> 587b8c03e63eeb805c567e6c953d949f4101bd84
